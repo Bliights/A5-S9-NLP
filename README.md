@@ -22,7 +22,7 @@ Bienvenue dans le cours de **Traitement Automatique du Langage Naturel (NLP)** !
 ## 🎥 Premiers cours
 
 Les **deux premières séances** sont à visionner ici :  
-👉 *(ajouter le lien)*
+👉 [Video](https://drive.google.com/drive/folders/1BgGeTWBv99sAnWfNP4vuVJTL1mMtE8yE?usp=sharing)
 
 ## 📅 Session du 16/12
 
